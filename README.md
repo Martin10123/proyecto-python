@@ -134,6 +134,9 @@ proyecto-python-main/
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Desarrollado para automatización de tareas educativas en Ferrum.
+VALERIN CARDENAS VILLALOBO
+JOSE COLON GAMARRA
+SHARICK DE LAS AGUAS
+MARTIN SIMARRA
